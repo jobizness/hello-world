@@ -1,1 +1,3 @@
-# hello-world
+# hello-
+#New to programming and learning fast!
+#Here I come....
